@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.tar.gz
+*.zip
+
+# macOS
+.DS_Store
+._*
+
+# Excel reports
+*.xlsx
+
+# Downloading temp files
+*.downloading
